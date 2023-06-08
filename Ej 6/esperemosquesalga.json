@@ -1,0 +1,63 @@
+[
+    {
+        "__class__": "Nodo",
+        "__atributos__": {
+            "marca": "Toyota",
+            "modelo": "Corolla",
+            "cantP": 4,
+            "color": "Blanco",
+            "preciob": 22000,
+            "patente": "DEF456",
+            "anio": 2013,
+            "kms": 80000
+        }
+    },
+    {
+        "__class__": "Nodo",
+        "__atributos__": {
+            "marca": "Volkswagen",
+            "modelo": "Gol",
+            "cantP": 5,
+            "color": "Negro",
+            "preciob": 20000,
+            "version": "base"
+        }
+    },
+    {
+        "__class__": "Nodo",
+        "__atributos__": {
+            "marca": "Chevrolet",
+            "modelo": "Cruze",
+            "cantP": 5,
+            "color": "Gris",
+            "preciob": 18000,
+            "patente": "XYZ789",
+            "anio": 2012,
+            "kms": 120000
+        }
+    },
+    {
+        "__class__": "Nodo",
+        "__atributos__": {
+            "marca": "Fiat",
+            "modelo": "Palio",
+            "cantP": 3,
+            "color": "Azul",
+            "preciob": 15000,
+            "patente": "ABC123",
+            "anio": 2015,
+            "kms": 90000
+        }
+    },
+    {
+        "__class__": "Nodo",
+        "__atributos__": {
+            "marca": "Ford",
+            "modelo": "Focus",
+            "cantP": 4,
+            "color": "Rojo",
+            "preciob": 25000,
+            "version": "full"
+        }
+    }
+]
